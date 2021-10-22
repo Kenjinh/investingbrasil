@@ -1,0 +1,15 @@
+html{
+    background-color: #131722;
+}
+.bg-ib{
+    background-color: #131722;
+}
+.navbar{
+    border-bottom: 0.5px solid #434651;
+}
+.navbar-brand img {
+    border-radius: 50%;
+}
+#root{
+    background-color: #131722;
+}

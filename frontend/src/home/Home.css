@@ -1,0 +1,16 @@
+.graphic {
+    margin: 1.5em;
+    height: 30em;
+}
+.analysis {
+    height: 30em;
+    margin: 1.5em;
+    padding: 1.5em;
+}
+.analysis a {
+    text-decoration: none;
+
+}
+.tradingview-widget-container{
+    margin-left: 24em;
+}
